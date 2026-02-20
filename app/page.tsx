@@ -120,6 +120,27 @@ export default function Home() {
         </div>
       </section>
 
+      {/* ORIGIN / ATTRIBUTION */}
+      <section className="max-w-6xl mx-auto px-4 pb-16">
+        <div className="border-4 border-black p-8">
+          <p className="text-xs font-bold tracking-widest text-pink-500 mb-3">ORIGIN</p>
+          <h3 className="text-2xl font-black mb-4">Created by Keiichi Arawi. Animated by Kyoto Animation.</h3>
+          <p className="text-sm text-gray-700 leading-relaxed mb-4">
+            <em>Nichijou: My Ordinary Life</em> is a manga by <strong>Keiichi Arawi</strong>, serialized 2006-2015 in Kadokawa&apos;s Monthly Shonen Ace. 
+            The anime adaptation by <strong>Kyoto Animation</strong> (2011) turned everyday school life into the most absurdly over-animated 
+            show in history. KyoAni gave cafeteria scenes the budget of mecha battles. The result: a cult classic that keeps growing.
+          </p>
+          <p className="text-sm text-gray-700 leading-relaxed mb-4">
+            This token is not affiliated with Keiichi Arawi, Kyoto Animation, or Kadokawa. It&apos;s a community tribute — 
+            a love letter to the greatest slice-of-life anime ever made.
+          </p>
+          <p className="text-sm font-bold text-gray-900">
+            This is not a utility token. No staking. No governance. No roadmap. Just vibes, chaos, and an unwavering belief 
+            that a principal suplexing a deer is the peak of human artistic achievement.
+          </p>
+        </div>
+      </section>
+
       {/* TOKENOMICS */}
       <section className="max-w-6xl mx-auto px-4 pb-16">
         <div className="border-4 border-black p-8 text-center">
